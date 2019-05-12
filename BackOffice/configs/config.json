@@ -1,0 +1,16 @@
+{
+  "orientDB": {
+    "url": {
+      "host": "104.211.155.19",
+      "port": 2424
+    },
+    "credentials": {
+      "name": "traveller",
+      "username": "root",
+      "password": "foo",
+      "pool": {
+        "max": 10
+      }
+    }
+  }
+}
